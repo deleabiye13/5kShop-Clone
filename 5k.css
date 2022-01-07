@@ -130,3 +130,35 @@ p.put{
 .gid-2 > .shop-now{
     font-size: 13px;
 }
+
+.dw{
+   text-align: center;
+}
+
+/* .gallery li {
+    display: flex;
+    justify-content:;
+} */
+
+/* .g-container{
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 0 5%;
+} */
+
+.gallery li{
+    display: inline-block;
+    margin-top: 60px;
+}
+
+.ct {
+    margin-left: 50px;
+}
+.cp {
+    margin-left: 270px;
+    margin-top: -30px;
+}
+.cd {
+    margin-left: 50px;
+    margin-top: -10px;
+}
