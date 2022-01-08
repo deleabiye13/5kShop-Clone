@@ -243,3 +243,9 @@ footer p {
     /* display: block; */
     text-align: left;
 }
+
+.ft-section-2{
+    text-align: left;
+    margin-left: 50px;
+    width: 50%;
+}
